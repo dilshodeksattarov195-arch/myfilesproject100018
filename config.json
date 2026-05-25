@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysetch",
+        "uuid": 152262,
+        "checksum": "tuy9vt"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
